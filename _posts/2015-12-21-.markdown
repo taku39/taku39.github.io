@@ -1,6 +1,6 @@
 ---
 published: true
-title: お試し
+title: evaluate
 layout: post
 ---
 # TinyPressお試し
